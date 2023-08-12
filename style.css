@@ -1,0 +1,43 @@
+#a {
+    width: 35px;
+    height: 35px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+h1 {
+    font-family: 'Fredoka';
+    font-size: 50px;
+}
+
+body {
+    background-size: cover;
+}
+
+#comenzarboton {
+    border-radius: 5px;
+    border-width: 5px;
+    font-size: 35px;
+    font-family: 'Fredoka';
+}
+
+h2 {
+    font-family: 'Fredoka';
+    font-size: 30px;
+}
+
+canvas {
+    margin-top: 180px;
+}
+
+footer {
+    font-family: 'Fredoka';
+    position: fixed;
+    bottom: 0;
+    font-size: 25px;
+}
+
+#input {
+    font-family: 'Fredoka';
+    font-size: 25px;
+}
